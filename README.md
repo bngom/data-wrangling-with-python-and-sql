@@ -4,6 +4,10 @@ A CLI app which use programmatic access to the database sql server.
 
 ## Usage
 
+* `git clone https://github.com/bngom/data-wrangling-with-python-and-sql`
+
+* `cd data-wrangling-with-python-and-sql`
+
 * `pip install .` Install the setup for the command line interface 
 
 * `pysql-cli --help` To check the usage of the CLI
