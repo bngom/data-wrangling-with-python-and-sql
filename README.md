@@ -8,9 +8,13 @@ A CLI app which use programmatic access to the database sql server.
 
 * `cd data-wrangling-with-python-and-sql`
 
+* `py -m venv env` Create a virtual environment
+
+* `.\env\Scripts\activate` Activate the virtual environment
+
 * `pip install .` Install the setup for the command line interface 
 
-* `pysql-cli --help` To check the usage of the CLI
+* `pysql-cli --help` To check the usage of the CLI. Will also install requirements.
 
 * `pysql-cli generate-last-survey-structure` Create a file `lastsurveystructure.csv` in *db* folder 
 
